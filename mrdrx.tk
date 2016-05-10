@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ☢ MRDRX.TK ☢
-// @version      5.1
+// @version      8.5
 // @author       Mr Drx
 // @match        http://agar.io/*
 // @require      https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.4.5/socket.io.min.js
